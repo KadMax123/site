@@ -179,6 +179,7 @@ header {
     border-right-width: 20px;
     position: relative;
     outline: none;
+    cursor: pointer;
 }
 
 .default_btn:after {
